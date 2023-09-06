@@ -109,6 +109,11 @@
     <li>Чистая</li>
     <li>Микросервисная</li>
   </ul>
+  Шаблоны проектирования:
+  <ul>
+    <li>MVC</li>
+    <li>MVVM</li>
+  </ul>
   Тестирование:
   <ul>
     <li>xUnit</li>
@@ -124,6 +129,7 @@
     <li>DDD</li>
     <li>FluentValidation</li>
     <li>NSubstitude</li>
+    <li>WebAPI</li>
   </ul>
 </p>
 
