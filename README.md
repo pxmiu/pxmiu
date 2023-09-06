@@ -27,7 +27,19 @@
     <img src="icons/Gmail.png" width="40" height="40" alt="gmail" />
   </a>
 </div>
----
+
+### ⚙️ GitHub stats:
+
+<table>
+  <tr>
+    <td>
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TxkyoGhxul&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
 
 ## Русский 🇷🇺
 ### :man_technologist: Обо мне:
@@ -47,7 +59,6 @@
     <img src="icons/Gmail.png" width="40" height="40" alt="gmail" />
   </a>
 </div>
----
 
 ### ⚙️ GitHub статистика:
 
