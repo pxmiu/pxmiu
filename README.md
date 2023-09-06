@@ -3,16 +3,16 @@
 
 ---
 
-Languages 📢:
-  - [English](#eng)
-  - [Russian](#rus)
+# Languages 📢:
+  - [English 🇬🇧](#eng)
+  - [Russian 🇷🇺](#rus)
 
 ---
 
 ## Eng
 ### :man_technologist: About me:
 
-### :man_technologist: Social media:
+### 🤝 Social media:
 <div id="badges">
   <a href="https://vk.com/pxmiu">
     <img src="icons/VK.png" width="40" height="40" alt="vk" />
