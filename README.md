@@ -65,6 +65,9 @@
   </a>
 </div>
 
+### 🖥️ Технологии:
+<img src="https://www.flaticon.com/free-icons/c-sharp" width="40" height="40" alt="C sharp" />
+
 ### ⚙️ GitHub статистика:
 
 <table>
