@@ -67,7 +67,7 @@
 <table>
   <tr>
     <td>
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+      <img height="195px" align="right" alt="Github Languages" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)" />
     </td>
     <td>
       <img height="195px" align="right" alt="Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TxkyoGhxul&layout=compact&theme=vision-friendly-dark" />
