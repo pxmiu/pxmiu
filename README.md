@@ -4,8 +4,8 @@
 ---
 
 # Languages 📢:
-  - [English 🇬🇧](#English)
-  - [Russian 🇷🇺](#Русский)
+  - [English 🇬🇧](#english)
+  - [Russian 🇷🇺](#русский)
 
 ---
 
