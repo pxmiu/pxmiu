@@ -11,6 +11,9 @@
 
 ## English 🇬🇧
 ### :man_technologist: About me:
+<p>
+  Hello! My name is Sasha Pomindeev or simply <b>Pomin</b>. I am 20 years old. I am a 4th year student at the Gomel State Technical University (GSTU). I started learning programming in Pascal at school. Then at the university I began to study various programming languages, but settled on C#.
+ </p>
 
 ### 🤝 Social media:
 <div id="badges">
@@ -27,6 +30,81 @@
     <img src="icons/Gmail.png" width="40" height="40" alt="gmail" />
   </a>
 </div>
+
+### 🖥️ Technologies:
+<img src="icons/dotnet.png" width="40" height="40" /><img src="icons/docker.png" width="40" height="40" />
+<img src="icons/rabbitmq.svg" width="40" height="40" />
+<img src="icons/Blazor.png" width="40" height="40" />
+<img src="icons/mongodb.png" width="40" height="40" />
+<img src="icons/sql-server.png" width="40" height="40" />
+<img src="icons/postgresql.png" width="40" height="40" />
+<img src="icons/mysql.png" width="40" height="40" />
+<img src="icons/mediatr.png" width="40" height="40" />
+<p>
+  Databases:
+  <ul>
+    <li>MS SQL</li>
+    <li>MySQL</li>
+    <li>PostgreSQL</li>
+    <li>SQL light</li>
+    <li>MongoDB</li>
+  </ul>
+  Frontend:
+  <ul>
+    <li>WPF</li>
+    <li>Window Forms</li>
+    <li>Blazor</li>
+    <li>Razor pages</li>
+  </ul>
+  Mappers:
+  <ul>
+    <li>AutoMapper</li>
+    <li>Mapster</li>
+    <li>Self mapper implemented by extension methods</li>
+  </ul>
+  ORMs:
+  <ul>
+    <li>Entity framework</li>
+    <li>Dapper</li>
+    <li>ADO.NET</li>
+  </ul>
+  Architecture:
+  <ul>
+    <li>Monolith</li>
+    <li>3-layered</li>
+    <li>Clean</li>
+    <li>Microservices</li>
+  </ul>
+  Design patterns:
+  <ul>
+    <li>MVC</li>
+    <li>MVVM</li>
+  </ul>
+  Testing:
+  <ul>
+    <li>xUnit</li>
+    <li>NUnit</li>
+  </ul>
+  More:
+  <ul>
+    <li>MediatR</li>
+    <li>RabbitMQ</li>
+    <li>Docker</li>
+    <li>Patterns</li>
+    <li>Result type</li>
+    <li>DDD</li>
+    <li>FluentValidation</li>
+    <li>NSubstitude</li>
+    <li>WebAPI</li>
+  </ul>
+</p>
+
+### 🛠 Instruments:
+<img src="icons/visual-studio-code.png" width="40" height="40" /><img src="icons/visual-studio.png" width="40" height="40" />
+<img src="icons/postman.png" width="40" height="40" />
+<p>
+  I use <b>Visual Studio</b> to solve problems. For editing files (JSON/XML, etc.) <b>Visual Studio Code</b>. To test API methods I use <b>Postman</b>
+</p>
 
 ### ⚙️ GitHub stats:
 
