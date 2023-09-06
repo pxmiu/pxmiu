@@ -12,6 +12,8 @@
 ## English 🇬🇧
 ### :man_technologist: About me:
 
+---
+
 ### 🤝 Social media:
 <div id="badges">
   <a href="https://vk.com/pxmiu">
@@ -28,6 +30,8 @@
   </a>
 </div>
 
+---
+
 ### ⚙️ GitHub stats:
 
 <table>
@@ -40,6 +44,8 @@
     </td>
   </tr>
 </table>
+
+---
 
 ## Русский 🇷🇺
 ### :man_technologist: Обо мне:
@@ -60,6 +66,8 @@
   </a>
 </div>
 
+---
+
 ### ⚙️ GitHub статистика:
 
 <table>
@@ -72,3 +80,5 @@
     </td>
   </tr>
 </table>
+
+---
