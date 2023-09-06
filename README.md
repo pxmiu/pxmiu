@@ -76,8 +76,7 @@
 <img src="icons/mediatr.png" width="40" height="40" />
 
 ### 🛠 Инструменты:
-<img src="icons/visual-studio-code.png" width="40" height="40" />
-<img src="icons/visual-studio.png" width="40" height="40" />
+<img src="icons/visual-studio-code.png" width="40" height="40" /><img src="icons/visual-studio.png" width="40" height="40" />
 <img src="icons/postman.png" width="40" height="40" />
 
 ### ⚙️ GitHub статистика:
