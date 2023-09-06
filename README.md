@@ -12,8 +12,6 @@
 ## English 🇬🇧
 ### :man_technologist: About me:
 
----
-
 ### 🤝 Social media:
 <div id="badges">
   <a href="https://vk.com/pxmiu">
@@ -30,14 +28,12 @@
   </a>
 </div>
 
----
-
 ### ⚙️ GitHub stats:
 
 <table>
   <tr>
     <td>
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+      [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
     </td>
     <td>
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TxkyoGhxul&layout=compact&theme=vision-friendly-dark" />
@@ -66,17 +62,15 @@
   </a>
 </div>
 
----
-
 ### ⚙️ GitHub статистика:
 
 <table>
   <tr>
     <td>
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+      [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TxkyoGhxul&layout=compact&theme=vision-friendly-dark" />
+      <img height="195px" align="right" alt="Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TxkyoGhxul&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
