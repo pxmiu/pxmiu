@@ -49,8 +49,15 @@
 </div>
 ---
 
-## 📊 &nbsp;Stats
+### ⚙️ GitHub статистика:
 
-![TxkyoGhxul' Github Stats](https://github-readme-stats.vercel.app/api?username=TxkyoGhxul&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TxkyoGhxul&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=TxkyoGhxul&theme=dark&background=000000" alt="Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TxkyoGhxul&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
