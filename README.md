@@ -9,7 +9,7 @@
 
 ---
 
-## English 🇬🇧
+##### English 🇬🇧
 ### :man_technologist: About me:
 
 ### 🤝 Social media:
