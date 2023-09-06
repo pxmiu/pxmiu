@@ -70,7 +70,7 @@
       <img height="195px" align="right" alt="Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TxkyoGhxul&layout=compact&theme=vision-friendly-dark" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=TxkyoGhxul&show_icons=true&theme=vision-friendly-dark" />
+      <img src="https://github-readme-stats.vercel.app/api?username=TxkyoGhxul&show_icons=true&theme=tokyonight" />
     </td>
   </tr>
 </table>
