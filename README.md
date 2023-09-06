@@ -3,9 +3,9 @@
 
 ---
 
-Languages 🗣️:
-  - [English] (#eng)
-  - [Russian] (#rus)
+Languages 📢:
+  - [English](#eng)
+  - [Russian](#rus)
 
 ## Eng
 ### :man_technologist: About me:
