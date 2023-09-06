@@ -1,6 +1,44 @@
 
 # TxkyoGhxul
 
+```csharp
+
+public record InviteMeToJobCommand(string Company, decimal Salary) : IUpdateCommand<User>;
+
+public class InviteMeToJobCommandHandler : IUpdateCommandHandler<InviteMeToJobCommand, User>
+{
+    private readonly IRepository<User> _repository;
+    private readonly IUnitOfWork _unitOfWork;
+    private readonly ILogger<InviteMeToJobCommandHandler> _logger;
+
+    public InviteMeToJobCommandHandler(IRepository<User> repository, IUnitOfWork unitOfWork, ILogger<InviteMeToJobCommandHandler> logger)
+    {
+        _repository = repository ?? throw new ArgumentNullException(nameof(repository));
+        _unitOfWork = unitOfWork ?? throw new ArgumentNullException(nameof(unitOfWork));
+        _logger = logger ?? throw new ArgumentNullException(nameof(logger));
+    }
+
+    public async Task<Result<User>> Handle(InviteMeToJobCommand request, CancellationToken cancellationToken)
+    {
+        var me = _repository.Get(user => user.Surname == "Pomin");
+        if (me == null)
+        {
+            return new EntityNotFoundException(typeof(User));
+        }
+
+        me.GotJobWithSalary(request.Salary);
+        _repository.Update(me);
+
+        await _unitOfWork.SaveChangesAsync(cancellationToken);
+
+        _logger.LogInformation("I'm happy to work in company : {Company}", request.Company);
+
+        return me;
+    }
+}
+
+```
+
 ---
 
 # Languages 📢:
