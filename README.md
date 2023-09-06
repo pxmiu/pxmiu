@@ -66,17 +66,20 @@
 </div>
 
 ### 🖥️ Технологии:
-<img src="icons/dotnet.png" width="40" height="40" /><img src="icons/docker.png" width="40" height="40" />
-<img src="icons/visual-studio-code.png" width="40" height="40" />
-<img src="icons/visual-studio.png" width="40" height="40" />
+<img src="icons/dotnet.png" width="40" height="40" />
+<img src="icons/docker.png" width="40" height="40" />
 <img src="icons/rabbitmq.svg" width="40" height="40" />
 <img src="icons/Blazor.png" width="40" height="40" />
-<img src="icons/postman.png" width="40" height="40" />
 <img src="icons/mongodb.png" width="40" height="40" />
 <img src="icons/sql-server.png" width="40" height="40" />
 <img src="icons/postgresql.png" width="40" height="40" />
 <img src="icons/mysql.png" width="40" height="40" />
 <img src="icons/mediatr.png" width="40" height="40" />
+
+### 🛠 Инструменты:
+<img src="icons/visual-studio-code.png" width="40" height="40" />
+<img src="icons/visual-studio.png" width="40" height="40" />
+<img src="icons/postman.png" width="40" height="40" />
 
 ### ⚙️ GitHub статистика:
 
