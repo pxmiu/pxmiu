@@ -20,14 +20,14 @@ public class InviteMeToJobCommandHandler : IUpdateCommandHandler<InviteMeToJobCo
 
     public async Task<Result<User>> Handle(InviteMeToJobCommand request, CancellationToken cancellationToken)
     {
-        var me = _repository.Get(user => user.Surname == "Pomin");
+        var me = await _repository.GetAsync(user => user.Surname == "Pomin", cancellationToken);
         if (me == null)
         {
             return new EntityNotFoundException(typeof(User));
         }
 
         me.GotJobWithSalary(request.Salary);
-        _repository.Update(me);
+        await _repository.UpdateAsync(me, cancellationToken);
 
         await _unitOfWork.SaveChangesAsync(cancellationToken);
 
