@@ -66,8 +66,7 @@
 </div>
 
 ### 🖥️ Технологии:
-<img src="icons/dotnet.png" width="40" height="40" />
-<img src="icons/docker.png" width="40" height="40" />
+<img src="icons/dotnet.png" width="40" height="40" /><img src="icons/docker.png" width="40" height="40" />
 <img src="icons/rabbitmq.svg" width="40" height="40" />
 <img src="icons/Blazor.png" width="40" height="40" />
 <img src="icons/mongodb.png" width="40" height="40" />
