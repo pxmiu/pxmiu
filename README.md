@@ -84,7 +84,7 @@ public class InviteMeToJobCommandHandler : IUpdateCommandHandler<InviteMeToJobCo
     <li>MS SQL</li>
     <li>MySQL</li>
     <li>PostgreSQL</li>
-    <li>SQL light</li>
+    <li>SQLite</li>
     <li>MongoDB</li>
   </ul>
   Frontend:
@@ -141,7 +141,7 @@ public class InviteMeToJobCommandHandler : IUpdateCommandHandler<InviteMeToJobCo
 <img src="icons/visual-studio-code.png" width="40" height="40" /><img src="icons/visual-studio.png" width="40" height="40" />
 <img src="icons/postman.png" width="40" height="40" />
 <p>
-  I use <b>Visual Studio</b> to solve problems. For editing files (JSON/XML, etc.) <b>Visual Studio Code</b>. To test API methods I use <b>Postman</b>
+  I use <b>Visual Studio</b> to solve problems. For editing files (JSON/XML, etc.) <b>Visual Studio Code</b>. To test API methods I use <b>Postman</b>.
 </p>
 
 ### ⚙️ GitHub stats:
@@ -196,7 +196,7 @@ public class InviteMeToJobCommandHandler : IUpdateCommandHandler<InviteMeToJobCo
     <li>MS SQL</li>
     <li>MySQL</li>
     <li>PostgreSQL</li>
-    <li>SQL light</li>
+    <li>SQLite</li>
     <li>MongoDB</li>
   </ul>
   Фронтенд:
@@ -253,7 +253,7 @@ public class InviteMeToJobCommandHandler : IUpdateCommandHandler<InviteMeToJobCo
 <img src="icons/visual-studio-code.png" width="40" height="40" /><img src="icons/visual-studio.png" width="40" height="40" />
 <img src="icons/postman.png" width="40" height="40" />
 <p>
-  Для решения задач использую <b>Visual Studio</b>. Для редактирования файлов (JSON/XML и др) <b>Visual Studio Code</b>. Для тестирования методов API использую <b>Postman</b>
+  Для решения задач использую <b>Visual Studio</b>. Для редактирования файлов (JSON/XML и др) <b>Visual Studio Code</b>. Для тестирования методов API использую <b>Postman</b>.
 </p>
 
 ### ⚙️ GitHub статистика:
