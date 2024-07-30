@@ -50,7 +50,7 @@ public class InviteMeToJobCommandHandler : IUpdateCommandHandler<InviteMeToJobCo
 ## English 🇬🇧
 ### :man_technologist: About me:
 <p>
-  Hello! My name is Sasha Pomindeev or simply <b>Pomin</b>. I am 20 years old. I am a 4th year student at the Gomel State Technical University (GSTU). I started learning programming in Pascal at school. Then at the university I began to study various programming languages, but settled on C#.
+  Hello! My name is Alexander Pomindeev or simply <b>Pomin</b>.
  </p>
 
 ### 🤝 Social media:
@@ -162,7 +162,7 @@ public class InviteMeToJobCommandHandler : IUpdateCommandHandler<InviteMeToJobCo
 ## Русский 🇷🇺
 ### :man_technologist: Обо мне:
 <p>
-  Привет! Меня зовут Саша Поминдеев или просто <b>Помин</b>. Мне 20 лет. Я учусь на 4 курсе в Гомельском Государственном Техническом Университете (ГГТУ). Начал изучать программирование ещё в школе на Pascal. Далее в университете начал изучать различные языки программирования, но остановился на C#. 
+  Привет! Меня зовут Саша Поминдеев или просто <b>Помин</b>. Мне 20 лет. Я выпускник Гомельского Государственного Технического Университета (ГГТУ).
  </p>
 
 ### 🤝 Социальные сети:
