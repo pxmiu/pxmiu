@@ -1,8 +1,3 @@
-
-# TxkyoGhxul
-
----
-
 # Languages 📢:
   - English 🇬🇧
   - Russian 🇷🇺
