@@ -38,10 +38,10 @@
 <table>
   <tr>
     <td>
-      <img height="195px" align="right" alt="Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TxkyoGhxul&layout=compact&theme=vision-friendly-dark" />
+      <img height="195px" align="right" alt="Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pxmiu&layout=compact&theme=vision-friendly-dark" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=TxkyoGhxul&show_icons=true&theme=merko" />
+      <img src="https://github-readme-stats.vercel.app/api?username=pxmiu&show_icons=true&theme=merko" />
     </td>
   </tr>
 </table>
