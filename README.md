@@ -19,11 +19,22 @@ Open to freelance.
 - **Infrastructure:** Docker, Kubernetes
 - **Messaging:** Kafka, RabbitMQ
 - **Tools:** Git, Postman
-- **Other:** testing, architecture
+- **Other:** testing, architecture, client communication, software maintenance and support
+
+## Featured Projects
+
+- [MobileOperatorCW](https://github.com/pxmiu/MobileOperatorCW)
+- [WebTechnologies](https://github.com/pxmiu/WebTechnologies)
+
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pxmiu&show_icons=true&theme=dark&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pxmiu&layout=compact&theme=dark&hide_title=true)
 
 ## Contacts
 
 - LinkedIn: [linkedin.com/in/pxmiu](https://www.linkedin.com/in/pxmiu/)
+- Telegram: [@pxmiu](https://t.me/pxmiu)
 
 ---
 
@@ -48,8 +59,9 @@ Open to freelance.
 - **Инфраструктура:** Docker, Kubernetes
 - **Обмен сообщениями:** Kafka, RabbitMQ
 - **Инструменты:** Git, Postman
-- **Другое:** тестирование, архитектура
+- **Другое:** тестирование, архитектура, общение с клиентами, доработка и поддержка ПО
 
 ## Контакты
 
 - LinkedIn: [linkedin.com/in/pxmiu](https://www.linkedin.com/in/pxmiu/)
+- Telegram: [@pxmiu](https://t.me/pxmiu)
