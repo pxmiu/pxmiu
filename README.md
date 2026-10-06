@@ -6,7 +6,8 @@ Databases: PostgreSQL, MS SQL, Oracle, MongoDB.
 Infrastructure: Docker, Kubernetes.  
 Messaging: Kafka, RabbitMQ.  
 Tools: Git, Postman.  
-Experience in testing and architecture.
+Experience in testing and architecture.  
+Client communication, software maintenance and support.
 
 Open to freelance.
 
@@ -34,7 +35,8 @@ Open to freelance.
 Инфраструктура: Docker, Kubernetes.  
 Обмен сообщениями: Kafka, RabbitMQ.  
 Инструменты: Git, Postman.  
-Опыт в тестировании и архитектуре.
+Опыт в тестировании и архитектуре.  
+Общение с клиентами, доработка и поддержка ПО.
 
 Открыт к фрилансу.
 
