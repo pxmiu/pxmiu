@@ -1,47 +1,53 @@
-### :man_technologist: About me:
-<p>
-  Hello! My name is Alexander Pomindeev or simply <b>Pomin</b>.
- </p>
+# Alexander (pxmiu)
 
-### 🤝 Social media:
-<div id="badges">
-  <a href="https://vk.com/pxmiu">
-    <img src="icons/VK.png" width="40" height="40" alt="vk" />
-  </a>
-  <a href="https://t.me/pxmiu">
-    <img src="icons/Telegram.png" width="40" height="40" alt="telegram" />
-  </a>
-  <a href="mailto:pmnsplay@gmail.com">
-    <img src="icons/Gmail.png" width="40" height="40" alt="gmail" />
-  </a>
-</div>
+Full-stack developer. Focus on web and desktop applications.  
+Backend: .NET, Blazor, WPF (MVVM). Frontend: React.  
+Databases: PostgreSQL, MS SQL, Oracle, MongoDB.  
+Infrastructure: Docker, Kubernetes.  
+Messaging: Kafka, RabbitMQ.  
+Tools: Git, Postman.  
+Experience in testing and architecture.
 
-### 🖥️ Technologies:
-<img src="icons/dotnet.png" width="40" height="40" /><img src="icons/docker.png" width="40" height="40" />
-<img src="icons/rabbitmq.svg" width="40" height="40" />
-<img src="icons/Blazor.png" width="40" height="40" />
-<img src="icons/mongodb.png" width="40" height="40" />
-<img src="icons/sql-server.png" width="40" height="40" />
-<img src="icons/postgresql.png" width="40" height="40" />
-<img src="icons/mysql.png" width="40" height="40" />
-<img src="icons/mediatr.png" width="40" height="40" />
+Open to freelance.
 
-### 🛠 Instruments:
-<img src="icons/visual-studio-code.png" width="40" height="40" /><img src="icons/visual-studio.png" width="40" height="40" />
-<img src="icons/postman.png" width="40" height="40" />
-<p>
-  I use <b>Visual Studio</b> to solve problems. For editing files (JSON/XML, etc.) <b>Visual Studio Code</b>. To test API methods I use <b>Postman</b>.
-</p>
+## Tech Stack
 
-### ⚙️ GitHub stats:
+- **Backend:** .NET, Blazor, WPF (MVVM)
+- **Frontend:** React
+- **Databases:** PostgreSQL, MS SQL, Oracle, MongoDB
+- **Infrastructure:** Docker, Kubernetes
+- **Messaging:** Kafka, RabbitMQ
+- **Tools:** Git, Postman
+- **Other:** testing, architecture
 
-<table>
-  <tr>
-    <td>
-      <img height="195px" align="right" alt="Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pxmiu&layout=compact&theme=vision-friendly-dark" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=pxmiu&show_icons=true&theme=merko" />
-    </td>
-  </tr>
-</table>
+## Contacts
+
+- LinkedIn: [linkedin.com/in/pxmiu](https://www.linkedin.com/in/pxmiu/)
+
+---
+
+# Александр (pxmiu)
+
+Фуллстек-разработчик. Специализация — веб- и десктоп-приложения.  
+Бэкенд: .NET, Blazor, WPF (MVVM). Фронтенд: React.  
+Базы данных: PostgreSQL, MS SQL, Oracle, MongoDB.  
+Инфраструктура: Docker, Kubernetes.  
+Обмен сообщениями: Kafka, RabbitMQ.  
+Инструменты: Git, Postman.  
+Опыт в тестировании и архитектуре.
+
+Открыт к фрилансу.
+
+## Стек
+
+- **Бэкенд:** .NET, Blazor, WPF (MVVM)
+- **Фронтенд:** React
+- **Базы данных:** PostgreSQL, MS SQL, Oracle, MongoDB
+- **Инфраструктура:** Docker, Kubernetes
+- **Обмен сообщениями:** Kafka, RabbitMQ
+- **Инструменты:** Git, Postman
+- **Другое:** тестирование, архитектура
+
+## Контакты
+
+- LinkedIn: [linkedin.com/in/pxmiu](https://www.linkedin.com/in/pxmiu/)
